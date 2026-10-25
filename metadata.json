@@ -1,0 +1,6 @@
+{
+  "name": "Halloween Family Feud",
+  "description": "A spooky Halloween game-show survey board with answer card flips, strikes, sounds, and team scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
