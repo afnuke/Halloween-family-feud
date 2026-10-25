@@ -4,6 +4,8 @@ A single-screen Halloween board game in the style of the classic TV survey show 
 
 **The game:** 12 rounds of Halloween survey questions, 8 answers on the board per round. Say your answer out loud and the board checks you — or tap a slot if you're hosting. Three strikes and the other team gets one shot to steal the whole bank. First team to 300 wins, called by your host: an original showman with big reactions, a synthesized game-show band, and absolutely no mercy for bad answers.
 
+> **Status: concept build — not finished.** This is the concept, built in one day. I'm not done with it — we'll finish it later. — Bryan
+
 ## Download & play
 
 Grab **HalloweenFamilyFeud.apk** — the game file right here in this repo — install it on any Android phone (Android 8.0 / API 26 or newer), and allow installs from your browser or files app when Android asks. No account, no ads, no data collected — the game lives entirely on your phone.
